@@ -1,9 +1,2 @@
-
-Since the dawn of time, communication has been created in order to allow human beings to be able to exchange their ideas. 
-However, this communication has evolved since this period. Nowadays we find it in several forms namely: verbal, written but also gestural. 
-However, this development has not always been in favor of visually impaired or blind people. 
-Because of their visual handicap, the use of different technological communication tools is not always easy for those. 
-To facilitate the communication between these people by creating an application who will not need a graphical interface and who will use movement 
-sensor to define somes instructions like sending messages or playing messages.For its implementation we used several free tools. 
-Firebase for managing and storing voice messages, Android studio for developing the application.
-After its implementation we carried out an assessment of our application during which we collect the daily different user reviews.
+As part of our course it was a question for usto build and evaluate a prototype including a concept for cooperation without pixels.
+That mean's no classic agraphical user interface allowed(Lighting in objects ,tactiles, vibrations,voice interaction,gestures).Blindchat is an application that allows oral communication between two people with an Android smarphone without using a graphical tool. How is it work? when the user shakes the phone and then he can easily communicate with his friend, equal to the distance that separates them from each other, the most important thing is that both must have an internet connection. Our document is divided into several parts, namely the study of existing applications for the blind, the different communication concepts (Association, Direction of infosflow, Mode of communication) and cooperation used in our application. Then the evaluation for the collection and analysis of user feedback in relation to our application.
